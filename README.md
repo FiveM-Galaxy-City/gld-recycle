@@ -1,4 +1,4 @@
-## :arrows_counterclockwise: GLD-RECYCLE - Recycling System QBCore
+## :arrows_counterclockwise: GLD-RECYCLE - Recycling System QBCore or ESX
 
 **:clipboard: Description**
 Complete item recycling system with level progression, dynamic rewards and modern interface for your post-apocalyptic server
@@ -35,5 +35,5 @@ Import SQL
 
 :clipboard: Dependencies
 
-- QBCore
+- QBCore or ESX
 - ox_lib
